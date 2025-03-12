@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which part is utilized in optical microscope for concentrating the light from source to the object:?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diopter",
+        "b": "Eye Piece",
+        "c": "Objective Lens",
+        "d": "Condenser Lens"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,7 +15,24 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The main part of optical microscope that focuses and magnified the features of samples is:?",
+      "answers": {
+        "a": "Diopter",
+        "b": "Eye Piece",
+        "c": "Objective Lens",
+        "d": "Condenser Lens"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -33,6 +50,57 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The part that houses various objective lenses for changing the magnification in optical microscope is called:?",
+      "answers": {
+        "a": "Diopter",
+        "b": "Base",
+        "c": "Turret",
+        "d": "Arm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The rotating disc (of various opening-sizes) to control aperture for passage of light and change intensity is known as:?",
+      "answers": {
+        "a": "Diaphragm",
+        "b": "Diopter",
+        "c": "Turret",
+        "d": "Ocular"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The adjustment to eyepiece to permit correction of vision on eyepiece is known as:?",
+      "answers": {
+        "a": "Diaphragm",
+        "b": "Diopter",
+        "c": "Turret",
+        "d": "Ocular"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
