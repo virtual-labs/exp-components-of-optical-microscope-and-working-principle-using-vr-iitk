@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which is NOT a part of an optical microscope:?",
+      "question": "Which is NOT a part of an optical microscope ?",
       "answers": {
         "a": "Light Source",
         "b": "Eye Piece",
@@ -10,16 +10,16 @@
         "d": "Thermocouple"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "The part of optical microscope that holds the specimen is called:?",
+      "question": "The part of optical microscope that holds the specimen is called :",
       "answers": {
         "a": "Diopter",
         "b": "Base",
@@ -27,16 +27,16 @@
         "d": "Arm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "The optical microscope is supported on the part called:?",
+      "question": "The optical microscope is supported on the part called :",
       "answers": {
         "a": "Diaphragm",
         "b": "Base",
@@ -44,15 +44,15 @@
         "d": "Arm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },{
-      "question": "The part to illuminate and brighten the field of view is provided by:?",
+      "question": "The part to illuminate and brighten the field of view is provided by :",
       "answers": {
         "a": "Light Source",
         "b": "Condenser Lens",
@@ -60,16 +60,16 @@
         "d": "Eyepiece"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "The adjustment part in microscope through which microstructural features are brought to focus for viewing?",
+      "question": "The adjustment part in microscope through which microstructural features are brought to focus for viewing :",
       "answers": {
         "a": "Turret",
         "b": "Focus knobs",
@@ -77,10 +77,10 @@
         "d": "Light Source"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
