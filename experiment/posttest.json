@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which part is utilized in optical microscope for concentrating the light from source to the object:?",
+      "question": "Which part is utilized in optical microscope for concentrating the light from source to the object : ",
       "answers": {
         "a": "Diopter",
         "b": "Eye Piece",
@@ -10,16 +10,16 @@
         "d": "Condenser Lens"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "The main part of optical microscope that focuses and magnified the features of samples is:?",
+      "question": "The main part of optical microscope that focuses and magnified the features of samples is :",
       "answers": {
         "a": "Diopter",
         "b": "Eye Piece",
@@ -27,16 +27,16 @@
         "d": "Condenser Lens"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "The part that houses various objective lenses for changing the magnification in optical microscope is called:?",
+      "question": "The part that houses various objective lenses for changing the magnification in optical microscope is called :",
       "answers": {
         "a": "Diopter",
         "b": "Base",
@@ -44,16 +44,16 @@
         "d": "Arm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "The rotating disc (of various opening-sizes) to control aperture for passage of light and change intensity is known as:?",
+      "question": "The rotating disc (of various opening-sizes) to control aperture for passage of light and change intensity is known as :",
       "answers": {
         "a": "Diaphragm",
         "b": "Diopter",
@@ -61,16 +61,16 @@
         "d": "Ocular"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "The adjustment to eyepiece to permit correction of vision on eyepiece is known as:?",
+      "question": "The adjustment to eyepiece to permit correction of vision on eyepiece is known as :",
       "answers": {
         "a": "Diaphragm",
         "b": "Diopter",
@@ -78,10 +78,10 @@
         "d": "Ocular"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
