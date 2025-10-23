@@ -19,16 +19,16 @@ features) <br>
 
 (viii)	<b>focus knobs (coarse- and fine-focus knobs)</b> through which the microstructural features are brought to focus for viewing. First, coarse focus is utilized to bring the features in approximate focus. The microscope column moves rapidly during coarse focus and allows easy positioning depending on the sample height (and bring the lenses to near its focal point). Then, fine-focus knob is utilized to perform fine tuning and bringing the sample to the best focus for viewing by observer.  <br>
 
-(ix)	<b>diaphragm / iris<b> is a rotating disc that has varied opening sizes permitting to control (i) <b>aperture diaphragm</b> controls the diameter of light and vary the light intensity as well, and (ii) <b>field diaphragm</b> controls the view of field  <br>
+(ix)	<b>diaphragm / iris</b> is a rotating disc that has varied opening sizes permitting to control (i) <b>aperture diaphragm</b> controls the diameter of light and vary the light intensity as well, and (ii) <b>field diaphragm</b> controls the view of field  <br>
 
 (x)	<b>camera</b> captures the view/image via arrangement of split mirror. Camera permits capturing the features as there may be multiple areas of interest and also multiple magnifications may be needed to observe certain features. <br>
 
-(xi)	<b>turret/ revolving nosepiece<b> permits changing the magnification among placed objective lenses. Typically a few objective lenses are placed on the turret, which allows moving to different magnifications (to observe the features) without losing the approximate focus region. So the same region can be reached, and fine-focus may bring back the features in focus while being in the same region of interest.  <br>
+(xi)	<b>turret/ revolving nosepiece </b> permits changing the magnification among placed objective lenses. Typically a few objective lenses are placed on the turret, which allows moving to different magnifications (to observe the features) without losing the approximate focus region. So the same region can be reached, and fine-focus may bring back the features in focus while being in the same region of interest.  <br>
 
-(xii)	<b>stage clips<b> permit holding the specimen on the sample stage. In order to avoid 
+(xii)	<b>stage clips</b> permit holding the specimen on the sample stage. In order to avoid 
 accidental touch and sample movement (in case of not-flat or small samples), stage clips are used to hold the sample in place on sample stage.  <br>
 
-(xiii)	<b>Arm<b> joins the base of microscope to the body tube <br>
+(xiii)	<b>Arm</b> joins the base of microscope to the body tube <br>
 
 
 Virtual Reality tool permits observing the exploded view in 3-D rendering to observe how the 
