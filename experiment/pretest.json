@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which is NOT a part of an optical microscope ?",
+      "question": "Which is NOT a part of an optical microscope :",
       "answers": {
         "a": "Light Source",
         "b": "Eye Piece",
