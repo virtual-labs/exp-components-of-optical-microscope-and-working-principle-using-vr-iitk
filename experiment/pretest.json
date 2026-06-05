@@ -10,11 +10,11 @@
         "d": "Thermocouple"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect. A light source is an essential component of an optical microscope for illuminating the specimen.",
+        "b": "Incorrect. The eyepiece is a fundamental part of an optical microscope used to view the magnified image.",
+        "c": "Incorrect. The objective lens is a key optical component responsible for primary magnification.",
+        "d": "Correct. A thermocouple is a temperature-measuring device and is not a component of an optical microscope."
+  },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -27,10 +27,10 @@
         "d": "Arm"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
+        "a": "Incorrect. A diopter is a unit used to measure the optical power of a lens.",
+        "b": "Incorrect. The base supports the microscope but does not hold the specimen.",
+        "c": "Correct. The stage is the platform on which the specimen slide is placed and held for observation.",
+        "d": "Incorrect. The arm supports the upper parts of the microscope and is used for carrying it."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,11 +44,11 @@
         "d": "Arm"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect. The diaphragm controls the amount of light passing through the specimen.",
+        "b": "Correct. The base is the bottom support of the microscope and provides stability to the entire instrument.",
+        "c": "Incorrect. The stage holds the specimen slide but does not support the microscope.",
+        "d": "Incorrect. The arm connects the base to the upper parts of the microscope and is used for carrying it."
+  },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },{
@@ -60,11 +60,11 @@
         "d": "Eyepiece"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Correct. The light source provides illumination to the specimen and brightens the field of view for observation.",
+    "b": "Incorrect. The condenser lens focuses and directs light onto the specimen but does not generate the illumination.",
+    "c": "Incorrect. The objective lens magnifies the image formed by the specimen.",
+    "d": "Incorrect. The eyepiece is used to view and further magnify the image."
+  },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -77,11 +77,11 @@
         "d": "Light Source"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect. The turret is used to hold and rotate objective lenses of different magnifications.",
+    "b": "Correct. The focus knobs are used to adjust the position of the specimen or objective lens to bring microstructural features into sharp focus for viewing.",
+    "c": "Incorrect. A camera is used to capture images and is not involved in focusing.",
+    "d": "Incorrect. The light source provides illumination but does not control focus."
+  },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
