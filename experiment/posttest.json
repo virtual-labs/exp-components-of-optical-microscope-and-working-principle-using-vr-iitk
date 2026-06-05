@@ -10,11 +10,11 @@
         "d": "Condenser Lens"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect. A diopter is a unit used to measure the optical power of a lens and does not concentrate light onto the specimen.",
+    "b": "Incorrect. The eyepiece magnifies the image formed by the objective lens for viewing.",
+    "c": "Incorrect. The objective lens collects light from the specimen and forms the primary magnified image.",
+    "d": "Correct. The condenser lens concentrates and focuses light from the source onto the specimen, improving illumination and image quality."
+  },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -27,11 +27,11 @@
         "d": "Condenser Lens"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect – Diopter is used for adjusting focus differences between the left and right eyes in the eyepiece, not for magnification or image formation.",
+        "b": "Incorrect – Eyepiece (ocular lens) provides secondary magnification for viewing the image formed by the objective lens, but it is not the main lens responsible for primary magnification.",
+        "c": "Correct – Objective lens is the main part of the optical microscope that forms the primary magnified image of the specimen and largely determines resolution.",
+        "d": "Incorrect – Condenser lens only focuses and concentrates light onto the specimen to improve illumination; it does not magnify the image."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -44,11 +44,11 @@
         "d": "Arm"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect – Diopter is used to adjust focus differences between the two eyes in the eyepiece, not to hold or switch objective lenses.",
+  "b": "Incorrect – Base is the bottom support of the microscope that provides stability and illumination, not related to objective lenses.",
+  "c": "Correct – Turret (revolving nosepiece) holds multiple objective lenses and allows easy switching of magnification levels.",
+  "d": "Incorrect – Arm is the supporting structure used to hold and carry the microscope, not related to lenses."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -61,11 +61,11 @@
         "d": "Ocular"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Correct – Diaphragm (iris or disc diaphragm) is used to control the aperture size, regulate the amount of light passing through the specimen, and adjust light intensity in a microscope.",
+  "b": "Incorrect – Diopter is used for adjusting focus differences between the eyes in the eyepiece, not for controlling light intensity.",
+  "c": "Incorrect – Turret is the revolving nosepiece that holds objective lenses and is used to switch magnification, not to control light.",
+  "d": "Incorrect – Ocular (eyepiece) is used for viewing and providing secondary magnification, not for controlling aperture or light intensity."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -78,11 +78,11 @@
         "d": "Ocular"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect – Diaphragm controls the amount of light passing through the specimen, not vision correction in the eyepiece.",
+  "b": "Correct – Diopter adjustment in the eyepiece is used to compensate for differences in vision between the user's eyes, allowing a clear, focused image.",
+  "c": "Incorrect – Turret is the revolving nosepiece that holds objective lenses and is used to change magnification, not for vision correction.",
+  "d": "Incorrect – Ocular (eyepiece) is the viewing lens of the microscope, but it is not the adjustment mechanism for correcting vision."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
